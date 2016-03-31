@@ -1,2 +1,2 @@
 # GS
-my first github reposiory
+my first github reposiory add
